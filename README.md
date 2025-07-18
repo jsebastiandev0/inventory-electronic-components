@@ -5,3 +5,5 @@ This application offers a solution for inventory management and project planning
 
 
 # test gh_pages app... 
+
+ ![Tux, the Linux mascot](electronic-components-and-semiconductor-devices.png)
